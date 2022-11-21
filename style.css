@@ -1,0 +1,10 @@
+.purple {
+    background-color: #741B81;
+    min-height: 15px;
+    
+  }
+
+  .bg-lightest {
+    --bs-bg-opacity: 1;
+    background-color: #fff !important;
+  }
