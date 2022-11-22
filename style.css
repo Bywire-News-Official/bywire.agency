@@ -105,9 +105,14 @@ h1,h2,h3,h4,h5,h6,a {
   text-rendering: optimizeLegibility;
 }
 
+.line-container {
+  cursor: pointer;
+}
+
 .line {
     width: 30px;
     height: 4px;
     background-color: #741B81;
     margin: 4px 0;
+
 }
